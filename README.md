@@ -14,9 +14,8 @@
 
 <!-- Animated Background Section -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sukanto-Sarker/my-banner-readme/main/Gemini_Generated_Image_2kq6mr2kq6mr2kq6.png" alt="Banner Image" width="100%" />
+  <img src="https://raw.githubusercontent.com/Sukanto-Sarker/my-banner-readme/main/Gemini_Generated_Image_ht7o77ht7o77ht7o%20(1).png" alt="Banner Image" width="100%" />
 </p>
-
 
 
 ---
