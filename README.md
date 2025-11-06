@@ -45,25 +45,34 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KGN15&show_icons=true&theme=tokyonight" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KGN15&theme=tokyonight&hide_border=false" height="165" alt="GitHub Streak"/>
+  <!-- GitHub Contribution Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SukantoSarker&show_icons=true&theme=radical&count_private=true&hide_title=false" height="165" alt="GitHub Stats"/>
+
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SukantoSarker&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" height="165" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MashudurRahman&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SukantoSarker&layout=compact&theme=radical&hide_title=false" alt="Top Languages"/>
 </p>
 
----
+<p align="center">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=SukantoSarker&label=Profile%20Views&color=00BFFF&style=for-the-badge" alt="Profile Views"/>
+</p>
+
 
 ## ⚡ Activity Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KGN15&theme=tokyo-night" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SukantoSarker&theme=tokyo-night&area=true&hide_border=false&color=00BFFF&bg_color=0d1117" alt="Activity Graph"/>
 </p>
 
 ---
+
 
 ## 🌐 Connect with Me  
 
