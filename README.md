@@ -72,9 +72,17 @@
 
 
 ## ⚡ Activity Graph  
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SukantoSarker&theme=tokyo-night&area=true&hide_border=false&color=00BFFF&bg_color=0d1117" alt="Activity Graph"/>
+  <!-- Activity Graph with vibrant, modern theme -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sukanto-Sarker&theme=radical&area=true&hide_border=false&color=00BFFF&bg_color=0d1117" alt="Activity Graph"/>
 </p>
+
+<p align="center">
+  Track my daily contributions and see how consistent I am with coding! 💻✨
+</p>
+
+---
 
 ---
 
