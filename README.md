@@ -14,8 +14,9 @@
 
 <!-- Animated Background Section -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header" alt="Animated Header"/>
+  <img src="https://raw.githubusercontent.com/Sukanto-Sarker/my-banner-readme/main/Gemini_Generated_Image_2kq6mr2kq6mr2kq6.png" alt="Banner Image" width="100%" />
 </p>
+
 
 ---
 
