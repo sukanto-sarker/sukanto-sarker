@@ -3,12 +3,18 @@
 <h1 align="center">👋 Hi there! I'm <span style="color:#00BFFF;">Sukanto Sarker</span></h1>
 
 <p align="center">
+  <!-- Animated Typing SVG with background effect -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Front-End+Web+Developer;MERN+Stack+Learner;C%23+Beginner;Creative+Tech+Lover;Code.+Learn.+Build.+Repeat." alt="Typing SVG" />
 </p>
 
 <p align="center">
-🚀 A passionate <b>Front-End Web Developer</b> learning and growing every day.<br>
-💡 I love turning creative ideas into responsive and interactive web experiences.
+  🚀 A passionate <b>Front-End Web Developer</b> learning and growing every day.<br>
+  💡 I love turning creative ideas into responsive and interactive web experiences.
+</p>
+
+<!-- Animated Background Section -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header" alt="Animated Header"/>
 </p>
 
 ---
@@ -62,7 +68,7 @@
 
 <p align="center">
   <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=Sukanto-Sarker&label=Profile%20Views&color=00BFFF&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=SukantoSarker&label=Profile%20Views&color=00BFFF&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 <p align="center">
@@ -70,22 +76,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sukanto-Sarker&theme=radical&area=true&hide_border=false&color=00BFFF&bg_color=0d1117" alt="Activity Graph"/>
 </p>
 
-
-## ⚡ Activity Graph  
-
-<p align="center">
-  <!-- Activity Graph with vibrant, modern theme -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sukanto-Sarker&theme=radical&area=true&hide_border=false&color=00BFFF&bg_color=0d1117" alt="Activity Graph"/>
-</p>
-
-<p align="center">
-  Track my daily contributions and see how consistent I am with coding! 💻✨
-</p>
-
 ---
-
----
-
 
 ## 🌐 Connect with Me  
 
@@ -93,13 +84,9 @@
 <a href="https://www.instagram.com/sukanto192/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-
-  </a>
-  <a href="https://www.linkedin.com/in/sukanto-sarker/" target="_blank">
+<a href="https://www.linkedin.com/in/sukanto-sarker/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-  </a>
 </p>
 
 ---
@@ -116,4 +103,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer"/>
 </p>
-
