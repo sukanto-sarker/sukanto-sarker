@@ -1,46 +1,35 @@
-<!-- 🌟 Premium Animated GitHub Profile README for Sukanto Sarker -->
+<!-- 🌟 Premium GitHub Profile README for Sukanto Sarker -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sukanto-Sarker/my-banner-readme/main/Gemini_Generated_Image_2kq6mr2kq6mr2kq6.png" alt="Banner Image" width="100%" />
+</p>
 
 <h1 align="center">👋 Hi there! I'm <span style="color:#00BFFF;">Sukanto Sarker</span></h1>
 
 <p align="center">
-  <!-- Animated Typing SVG with background effect -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Front-End+Web+Developer;MERN+Stack+Learner;C%23+Beginner;Creative+Tech+Lover;Code.+Learn.+Build.+Repeat." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Front-End+Web+Developer;MERN+Stack+Learner;Creative+Tech+Lover;Code.+Learn.+Build.+Repeat." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  🚀 A passionate <b>Front-End Web Developer</b> learning and growing every day.<br>
-  💡 I love turning creative ideas into responsive and interactive web experiences.
-</p>
-
-<!-- Animated Background Section -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header" alt="Animated Header"/>
+🚀 A passionate <b>Front-End Web Developer</b> learning and growing every day.<br>
+💡 I love turning creative ideas into responsive and interactive web experiences.
 </p>
 
 ---
 
 ## 🧠 My Skills  
 
-### 💻 Languages & Frameworks  
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
----
-
-## 🛠️ Tools I Use  
-<p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-FF7262?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
@@ -54,25 +43,19 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <!-- GitHub Contribution Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Sukanto-Sarker&show_icons=true&theme=radical&count_private=true&hide_title=false" height="165" alt="GitHub Stats"/>
-
-  <!-- GitHub Streak -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Sukanto-Sarker&show_icons=true&theme=radical&count_private=true" height="165" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sukanto-Sarker&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" height="165" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukanto-Sarker&layout=compact&theme=radical&hide_title=false" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukanto-Sarker&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=SukantoSarker&label=Profile%20Views&color=00BFFF&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 <p align="center">
-  <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sukanto-Sarker&theme=radical&area=true&hide_border=false&color=00BFFF&bg_color=0d1117" alt="Activity Graph"/>
 </p>
 
@@ -90,14 +73,6 @@
   <a href="https://x.com/SSarker63409" target="_blank">
     <img src="https://img.shields.io/badge/X.com-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-</p>
-
-
----
-
-## 👀 Profile Visitors  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SukantoSarker&label=Profile%20Views&color=00BFFF&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
