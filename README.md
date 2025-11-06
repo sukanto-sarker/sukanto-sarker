@@ -49,20 +49,25 @@
 
 <p align="center">
   <!-- GitHub Contribution Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SukantoSarker&show_icons=true&theme=radical&count_private=true&hide_title=false" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sukanto-Sarker&show_icons=true&theme=radical&count_private=true&hide_title=false" height="165" alt="GitHub Stats"/>
 
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SukantoSarker&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" height="165" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sukanto-Sarker&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" height="165" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SukantoSarker&layout=compact&theme=radical&hide_title=false" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukanto-Sarker&layout=compact&theme=radical&hide_title=false" alt="Top Languages"/>
 </p>
 
 <p align="center">
   <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=SukantoSarker&label=Profile%20Views&color=00BFFF&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Sukanto-Sarker&label=Profile%20Views&color=00BFFF&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sukanto-Sarker&theme=radical&area=true&hide_border=false&color=00BFFF&bg_color=0d1117" alt="Activity Graph"/>
 </p>
 
 
