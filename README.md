@@ -13,10 +13,6 @@
 </p>
 
 <!-- Animated Background Section -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sukanto-Sarker/my-banner-readme/main/Gemini_Generated_Image_ht7o77ht7o77ht7o%20(1).png" alt="Banner Image" width="100%" />
-</p>
-
 
 ---
 
