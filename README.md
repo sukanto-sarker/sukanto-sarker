@@ -68,11 +68,11 @@
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://www.facebook.com/mukuta.chara.raja.2025" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+     <a href="https://www.instagram.com/yourusername/" target="_blank">
+    <img src="https://www.instagram.com/sukanto192/"/>
   </a>
   <a href="https://www.linkedin.com/in/md-mashudur-rahman-233746384/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-baedin&logoColor=white"/>
   </a>
 </p>
 
