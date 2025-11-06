@@ -4,7 +4,7 @@
 
 <p align="center">
   <!-- Animated Typing SVG with background effect -->
-  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Front-End+Web+Developer;MERN+Stack+Learner;C%23+Beginner;Creative+Tech+Lover;Code.+Learn.+Build.+Repeat." alt="Typing SVG" />
 </p>
 
 <p align="center">
