@@ -13,6 +13,9 @@
 </p>
 
 <!-- Animated Background Section -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sukanto-Sarker/my-banner-readme/main/WhatsApp%20Image%202025-11-06%20at%2013.20.26_8c938283.jpg" alt="Banner Image" width="100%" />
+</p>
 
 ---
 
